@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Curso de Inverno em Aprendizado Profundo para a Petrobras
 
-You can use the [editor on GitHub](https://github.com/deep-petro/deep-petro.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bla bla bla
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Teoria
 
-### Markdown
+#### Slides Teóricos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [1a Semana - Intro ML - Professor Renato Assunção](LINK)
+1. [2a Semana - MLPs from Scratch - Professor Renato Assunção](LINK)
+1. [3a Semana - CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
+1. [4a Semana - Vision - Professor Fabrício Murai](LINK)
+1. [5a Semana - Unsupervised Learning - Professor Renato Assunção](LINK)
+1. [6a Semana - RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
+1. [7a Semana - Working with Text - Professor Fabrício Murai](LINK)
+1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](LINK)
 
-```markdown
-Syntax highlighted code block
+#### Exercícios Teóricos
 
-# Header 1
-## Header 2
-### Header 3
+...
 
-- Bulleted
-- List
+### Prática
 
-1. Numbered
-2. List
+#### Notebooks
 
-**Bold** and _Italic_ and `Code` text
+Os gabaritos serão lançados depois de cada aula!
 
-[Link](url) and ![Image](src)
-```
+1. [1a Semana - Intro ML - Professor Renato Assunção](LINK)
+1. [2a Semana - MLPs from Scratch - Professor Renato Assunção](LINK)
+1. [3a Semana - CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
+1. [4a Semana - Vision - Professor Fabrício Murai](LINK)
+1. [5a Semana - Unsupervised Learning - Professor Renato Assunção](LINK)
+1. [6a Semana - RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
+1. [7a Semana - Working with Text - Professor Fabrício Murai](LINK)
+1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](LINK)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Usando o Collab
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deep-petro/deep-petro.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Aula Invertida
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bla Bla
