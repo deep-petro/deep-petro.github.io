@@ -1,4 +1,4 @@
-## Curso de Inverno em Aprendizado Profundo para a Petrobras
+## Aprendizado Profundo para a Petrobras
 
 Bla bla bla
 
