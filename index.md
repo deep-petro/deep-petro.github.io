@@ -1,8 +1,32 @@
-## Aprendizado Profundo para a Petrobras
+## Aprendizado Profundo
 
-Bla bla bla
+Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. Os recentes avanços nessa área devem-se a três fatores principais:
+
+1. O crescimento  exponencial  de  dados  disponíveis  nas mais  diversas  áreas, estruturados ou não;
+1. O enorme desenvolvimento da indústria de hardware nos últimos anos em termos de processadores e memória;
+1. Novos  algoritmos  aplicados  a  modelos  de  representação já  consagrados como redes neurais e grafos probabilísticos. 
+
+O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning). Os assuntos a serem cobertos no curso são os seguintes:
+
+1. Deep feedforward networks;
+1. Regularização para Deep Learning;
+1. Otimização para treinamento de modelos com Deep Learning;
+1. Redes convolucionais;
+1. Sequence Modeling: redes recorrentes e recursivas;
+1. Metodologia para aplicações;
+1. Aplicações;
+1. Linear Factor Models;
+1. Autoencoders;
+1. Representation learning;
+1. Modelos probabilísticos estruturados para Deep Learning;
+1. Função de partição;
+1. Inferência aproximada;
+1. Deep generative models.
 
 ### Teoria
+
+* Aulas de 08h até 10h
+* Sala 2016 - ICEX
 
 #### Slides Teóricos
 
