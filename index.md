@@ -36,14 +36,16 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 
 #### Slides Teóricos
 
+Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Separados por semana abaixo.
+
 1. [Intro ML - Professor Renato Assunção](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
 1. [MLPs from Scratch - Professor Renato Assunção](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
 1. [CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
 1. [Vision - Professor Fabrício Murai](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
 1. [Unsupervised Learning - Professor Renato Assunção](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
-1. [6a Semana - RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
-1. [7a Semana - Working with Text - Professor Fabrício Murai](LINK)
-1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](LINK)
+1. [RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
+1. [Working with Text - Professor Fabrício Murai](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
+1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
 
 #### Exercícios Teóricos
 
