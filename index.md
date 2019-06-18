@@ -45,33 +45,23 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 1. [Unsupervised Learning - Professor Renato Assunção](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
 1. [RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
 1. [Working with Text - Professor Fabrício Murai](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
-1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
-
-#### Exercícios Teóricos
-
-...
-
-### Prática
+1. [Deep Learning Research - Professor Flavio Figueiredo](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
 
 #### Notebooks
 
 Os gabaritos serão lançados depois de cada aula!
 
-1. [1a Semana](https://github.com/deep-petro/curso-inverno/tree/master/01-Semana)
-1. [2a Semana](https://github.com/deep-petro/curso-inverno/tree/master/02-Semana)
-1. [3a Semana](https://github.com/deep-petro/curso-inverno/tree/master/03-Semana)
-1. [4a Semana](https://github.com/deep-petro/curso-inverno/tree/master/04-Semana)
-1. [5a Semana](https://github.com/deep-petro/curso-inverno/tree/master/05-Semana)
-1. [6a Semana](https://github.com/deep-petro/curso-inverno/tree/master/06-Semana)
+1. [1a Semana](https://github.com/deep-petro/praticas/tree/master/01-Semana)
+1. [2a Semana](https://github.com/deep-petro/praticas/tree/master/02-Semana)
+1. [3a Semana](https://github.com/deep-petro/praticas/tree/master/03-Semana)
+1. [4a Semana](https://github.com/deep-petro/praticas/tree/master/04-Semana)
+1. [5a Semana](https://github.com/deep-petro/praticas/tree/master/05-Semana)
+1. [6a Semana](https://github.com/deep-petro/praticas/tree/master/06-Semana)
 
-Na sétima e oitava semana vamos focar em um mini-projeto. A descrição segue abaixo:
+Na sétima e oitava semana vamos focar em um mini-projeto. A descrição segue mais abaixo.
 
-Bla Bla
+##### Usando o Collab
 
-#### Usando o Collab
+#### Projeto
 
-Bla Bla
-
-### Aula Invertida
-
-Bla Bla
+Em Breve.
