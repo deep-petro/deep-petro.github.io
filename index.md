@@ -25,7 +25,7 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 
 ### Logística de Sala
 
-* **Sala 2016 - ICEX**
+**Sala 2016 - ICEX**
 
 |  Hora  |  Atividade        |
 |--------|-------------------|
@@ -36,11 +36,11 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 
 #### Slides Teóricos
 
-1. [1a Semana - Intro ML - Professor Renato Assunção](LINK)
-1. [2a Semana - MLPs from Scratch - Professor Renato Assunção](LINK)
-1. [3a Semana - CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
-1. [4a Semana - Vision - Professor Fabrício Murai](LINK)
-1. [5a Semana - Unsupervised Learning - Professor Renato Assunção](LINK)
+1. [Intro ML - Professor Renato Assunção](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
+1. [MLPs from Scratch - Professor Renato Assunção](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
+1. [CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
+1. [Vision - Professor Fabrício Murai](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
+1. [Unsupervised Learning - Professor Renato Assunção](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
 1. [6a Semana - RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](LINK)
 1. [7a Semana - Working with Text - Professor Fabrício Murai](LINK)
 1. [8a Semana - Deep Learning Research - Professor Flavio Figueiredo](LINK)
