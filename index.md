@@ -23,7 +23,7 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 1. Inferência aproximada;
 1. Deep generative models.
 
-### Logística de Sala
+### Logística de Aulas
 
 **Sala 2016 - ICEX**
 
@@ -31,8 +31,8 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 |--------|-------------------|
 | 8-10h  | Teoria            |
 | 10-12h | Exercícios        |
-| 14-16h | Invertida/Dúvidas |
-| 16-18h | Prática           |
+| 13-15h | Invertida/Dúvidas |
+| 15-17h | Prática           |
 
 #### Slides Teóricos
 
