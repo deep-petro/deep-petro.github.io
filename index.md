@@ -32,7 +32,7 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 | 8-10h  | Teoria            |
 | 10-12h | Exercícios        |
 | 14-16h | Invertida/Dúvidas |
-| 16-19h | Prática           |
+| 16-18h | Prática           |
 
 #### Slides Teóricos
 
