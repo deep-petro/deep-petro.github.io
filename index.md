@@ -1,27 +1,6 @@
 ## Aprendizado Profundo
 
-Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. Os recentes avanços nessa área devem-se a três fatores principais:
-
-1. O crescimento  exponencial  de  dados  disponíveis  nas mais  diversas  áreas, estruturados ou não;
-1. O enorme desenvolvimento da indústria de hardware nos últimos anos em termos de processadores e memória;
-1. Novos  algoritmos  aplicados  a  modelos  de  representação já  consagrados como redes neurais e grafos probabilísticos. 
-
-O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning). Os assuntos a serem cobertos no curso são os seguintes:
-
-1. Deep feedforward networks;
-1. Regularização para Deep Learning;
-1. Otimização para treinamento de modelos com Deep Learning;
-1. Redes convolucionais;
-1. Sequence Modeling: redes recorrentes e recursivas;
-1. Metodologia para aplicações;
-1. Aplicações;
-1. Linear Factor Models;
-1. Autoencoders;
-1. Representation learning;
-1. Modelos probabilísticos estruturados para Deep Learning;
-1. Função de partição;
-1. Inferência aproximada;
-1. Deep generative models.
+Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning). 
 
 ### Logística de Aulas
 
@@ -33,6 +12,72 @@ O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado
 | 10-12h | Exercícios        |
 | 13-15h | Invertida/Dúvidas |
 | 15-17h | Prática           |
+
+### Calendário
+
+**Introdução 'as Redes Neurais**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida                 | Prática |
+|--------|--------------------------------------|------------|---------------------------|---------|
+| 24/06  | Motivação e Perceptron               |            | Apresentação              |
+| 25/06  | Regressão Logística                  |            | Dúvidas de Cálculo        |
+| 26/06  | Gradiente Descendente e Newton       |            | Dúvidas de Álgebra Linear |
+| 27/06  | Backpropagation                      |            | Dúvidas de Programação    |
+
+**Perceptrons de Múltiplias Camadas e Otimização**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+| 02/07  | Regularização                        |
+| 03/07  | Funções de Perda                     |
+| 04/07  | Ainda será Definido                  |
+
+
+**Redes com Convoluções**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+| 02/07  | Regularização                        |
+| 03/07  | Funções de Perda                     |
+| 04/07  | Ainda será Definido                  |
+
+**Visão**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Object {localization, detection}, R-CNNs, Convolutional implementation of sliding windows         |            | Apresentação              |
+| 02/07  | Bounding box predictions, Intersection over union, Non-max supression, Anchor boxes, YOLO                        |
+| 03/07  | {Image, Instance} segmentation                           |
+| 04/07  | Face recognition, Siamese networks, neural style transfer                  |
+
+**Aprendizado não Supervisionado**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+| 02/07  | Regularização                        |
+| 03/07  | Funções de Perda                     |
+| 04/07  | Ainda será Definido                  |
+
+**Redes Recorrentes**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+| 02/07  | Regularização                        |
+| 03/07  | Funções de Perda                     |
+| 04/07  | Ainda será Definido                  |
+
+**Processamento de Linguagem e Sequências**
+
+|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
+|--------|--------------------------------------|------------|-----------|---------|
+| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+| 02/07  | Regularização                        |
+| 03/07  | Funções de Perda                     |
+| 04/07  | Ainda será Definido                  |
 
 #### Slides Teóricos
 
