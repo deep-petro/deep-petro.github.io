@@ -38,10 +38,10 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                              | Invertida                 |
 |--------|--------------------------------------|---------------------------|
-| 01/07  | Melhorias em Backpropagation         |  Dúvidas Semana Anterior  |
-| 02/07  | Regularização                        |
-| 03/07  | Funções de Perda                     |
-| 04/07  | Grafos Computacionais e Prática      |
+| 01/07  | Melhorias em Backpropagation         | Dúvidas Semana Anterior   |
+| 02/07  | Regularização                        |                           |
+| 03/07  | Funções de Perda                     | Visita e Discussões       |
+| 04/07  | Grafos Computacionais e Prática      | Visita e Discussões       |
 
 ### Semana 03: Redes com Convoluções
 
@@ -52,9 +52,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                                   | Invertida                 |
 |--------|-------------------------------------------|---------------------------|
 | 08/07  | Convoluções, Padding e Pooling            | Dúvidas Semana Anterior   |
-| 09/07  | Dilated, Separate e Decompositions        |
-| 10/07  | Classificação com Arquiteturas Profundas  |
-| 11/07  | CNNs na Prática (Vanishing etc)           |
+| 09/07  | Dilated, Separate e Decompositions        |                           |
+| 10/07  | Classificação com Arquiteturas Profundas  |                           |
+| 11/07  | CNNs na Prática (Vanishing etc)           |                           |
 
 ### Semana 04: Visão
 
@@ -65,9 +65,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                                                                                     | Invertida                 |
 |--------|---------------------------------------------------------------------------------------------|---------------------------|
 | 15/07  | Object {localization, detection}, R-CNNs, Convolutional implementation of sliding windows   | Dúvidas Semana Anterior   |
-| 16/07  | Bounding box predictions, Intersection over union, Non-max supression, Anchor boxes, YOLO   |
-| 17/07  | {Image, Instance} segmentation                                                              |
-| 18/07  | Face recognition, Siamese networks, neural style transfer                                   |
+| 16/07  | Bounding box predictions, Intersection over union, Non-max supression, Anchor boxes, YOLO   |                           |
+| 17/07  | {Image, Instance} segmentation                                                              |                           |
+| 18/07  | Face recognition, Siamese networks, neural style transfer                                   |                           |
 
 ### Semana 05: Aprendizado não Supervisionado
 
@@ -78,9 +78,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                   | Invertida                 |
 |--------|---------------------------|---------------------------|
 | 22/07  | Classical Auto Enconder   | Dúvidas Semana Anterior   |
-| 23/07  | Variational Auto Encoder  |
-| 24/07  | GANs                      |
-| 25/07  | Modern GANs               |
+| 23/07  | Variational Auto Encoder  |                           |
+| 24/07  | GANs                      |                           |
+| 25/07  | Modern GANs               |                           |
 
 ### Semana 06: Redes Recorrentes
 
@@ -91,9 +91,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                   | Invertida                 |
 |--------|---------------------------|---------------------------|
 | 29/07  | Unfolding e RNNs          | Dúvidas Semana Anterior   |
-| 30/07  | Deep RNNs                 |
-| 31/07  | GRUs e LSTMs              |
-| 01/08  | SEQ2SEQ e Attention       |
+| 30/07  | Deep RNNs                 |                           |
+| 31/07  | GRUs e LSTMs              |                           |
+| 01/08  | SEQ2SEQ e Attention       |                           |
 
 ### Semana 07: Processamento de Linguagem e Sequências
 
@@ -104,9 +104,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                                                                       | Invertida                 |
 |--------|-------------------------------------------------------------------------------|---------------------------|
 | 05/08  | Learning word embeddings, word2vec, negative sampling, GloVe                  | Dúvidas Semana Anterior   |
-| 06/08  | Sentiment, Debiasing, Seq. to Seq. Models, Most Likely Sentence, Beam Search  |
-| 07/08  | {Refinements, Error Analysis} of Beam Search, BLEU score                      |
-| 08/08  | Attention model, Speech Recognition                                           |
+| 06/08  | Sentiment, Debiasing, Seq. to Seq. Models, Most Likely Sentence, Beam Search  |                           |
+| 07/08  | {Refinements, Error Analysis} of Beam Search, BLEU score                      |                           |
+| 08/08  | Attention model, Speech Recognition                                           |                           |
 
 ### Semana 08: Deep Learning Research e Outros Tópicos
 
