@@ -133,7 +133,7 @@ Agora basta clicar em um notebook e executar as células! Muito do nosso materia
 e `pytorch`. Para instalar no collab execute na primeira célula:
 
 ```
-!pip install mxnet
+!pip install mxnet-cu100==1.4.1
 ```
 
 ## Projeto
