@@ -127,7 +127,7 @@ Durante as tarefas práticas vamos fazer uso do collab. O mesmo permite conectar
 e executar notebooks do mesmo. Ao acessar o [Collab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true),
 clique em Github. Após isto, coloque os dados do repositório como na figura abaixo.
 
-![Collab Uso](f.png)
+![Collab Uso](Captura de tela 2019-06-22 07.59.25.png)
 
 Agora basta clicar em um notebook e executar as células! Muito do nosso material vai usar arcabouços como `mxnet`
 e `pytorch`. Para instalar no collab execute na primeira célula:
