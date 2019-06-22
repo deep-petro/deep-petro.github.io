@@ -26,7 +26,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 ### Semana 01: Introdução 'as Redes Neurais
 
-1. [Slides](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
+1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
 1. [Exercícios](https://drive.google.com/drive/folders/1xt1TsHtVP6E7tn4n_VjOkTIytRaCnpqv)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/01-Semana)
 
@@ -39,7 +39,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 ### Semana 02: Perceptrons de Múltiplias Camadas e Otimização
 
-1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
+1. [Slides](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
 1. [Exercícios](https://drive.google.com/drive/folders/1JkdTpH4bCB6zoRF7-9P7e9sUg3KzUa_9)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/02-Semana)
 
