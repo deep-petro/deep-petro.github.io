@@ -101,7 +101,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 1. **Exercícios focado nos Projetos**** 
 1. **Prática focada nos Projetos**
 
-|  Dia   |  Tópico                                                                       | Invertida                 |--------|-------------------------------------------------------------------------------|---------------------------|
+|  Dia   |  Tópico                                                                       | Invertida                 | |--------|-------------------------------------------------------------------------------|---------------------------|
 | 05/08  | Learning word embeddings, word2vec, negative sampling, GloVe                  | Dúvidas Semana Anterior   |
 | 06/08  | Sentiment, Debiasing, Seq. to Seq. Models, Most Likely Sentence, Beam Search  |
 | 07/08  | {Refinements, Error Analysis} of Beam Search, BLEU score                      |
@@ -113,7 +113,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 1. **Exercícios focado nos Projetos**** 
 1. **Prática focada nos Projetos**
 
-|  Dia   |  Tópico                                        | Invertida                 |--------|------------------------------------------------|---------------------------|
+|  Dia   |  Tópico                                        | Invertida                 | |--------|------------------------------------------------|---------------------------|
 | 12/08  | Concept Drift                                  | Apresentação Artigos      |
 | 13/08  | Prunning e Understanding Deep Learning         | Apresentação Artigos      |
 | 14/08  | Interpretability                               | Apresentação Artigos      |
