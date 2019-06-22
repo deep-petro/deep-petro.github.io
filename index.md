@@ -1,6 +1,6 @@
 # Aprendizado Profundo
 
-Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning). 
+Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning).
 
 ## Logística de Aulas
 
@@ -25,7 +25,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                              | Invertida                 |
 |--------|--------------------------------------|---------------------------|
-| 24/06  | Motivação e Perceptron               | Apresentação              |      
+| 24/06  | Motivação e Perceptron               | Apresentação              |
 | 25/06  | Regressão Logística                  | Dúvidas de Cálculo        |
 | 26/06  | Gradiente Descendente e Newton       | Dúvidas de Álgebra Linear |
 | 27/06  | Backpropagation                      | Dúvidas de Programação    |
@@ -127,7 +127,7 @@ Durante as tarefas práticas vamos fazer uso do collab. O mesmo permite conectar
 e executar notebooks do mesmo. Ao acessar o [Collab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true),
 clique em Github. Após isto, coloque os dados do repositório como na figura abaixo.
 
-![Collab Uso](Captura de tela 2019-06-22 07.59.25.png)
+![](f.png)
 
 Agora basta clicar em um notebook e executar as células! Muito do nosso material vai usar arcabouços como `mxnet`
 e `pytorch`. Para instalar no collab execute na primeira célula:
