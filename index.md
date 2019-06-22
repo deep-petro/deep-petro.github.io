@@ -1,14 +1,12 @@
-# Aprendizado Profundo
-
-
 |-------------------------|---------------------------|----------------------------------|----------------------|
 | [Logística](#logistica) | [Calendário](#calendario) |  [Executanto Notebooks](#collab) | [Projetos](#projeto) |
 
+# Aprendizado Profundo
 
 Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning).
 
-
-## Logística de Aulas <a name="logistica"/>
+<a name="logistica"/>
+## Logística de Aulas 
 
 **Sala 2016 - ICEX**
 
@@ -19,7 +17,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 13-15h | Invertida/Dúvidas |
 | 15-17h | Prática           |
 
-## Calendário <a name="calendario"/>
+<a name="calendario"/>
+## Calendário 
 
 Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Notebooks [aqui](https://github.com/deep-petro/praticas). Separados por semana abaixo.
 
@@ -127,7 +126,8 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 14/08  | Interpretability                               | Apresentação Artigos      |
 | 15/08  | Modern Architectures (BERT, VID2VID, GraphNet) | Apresentação Artigos      |
 
-## Usando o Collab <a name="collab"/>
+<a name="collab"/>
+## Usando o Collab 
 
 Durante as tarefas práticas vamos fazer uso do collab. O mesmo permite conectar com o Github
 e executar notebooks do mesmo. Ao acessar o [Collab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true),
@@ -142,6 +142,7 @@ e `pytorch`. Para instalar no collab execute na primeira célula:
 !pip install mxnet-cu100==1.4.1
 ```
 
-## Projeto <a name="projeto"/>
+<a name="projeto"/>
+## Projeto 
 
 Em Breve.
