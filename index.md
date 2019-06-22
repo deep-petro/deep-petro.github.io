@@ -25,7 +25,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 01: Introdução 'as Redes Neurais
 
 1. [Slides](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1xt1TsHtVP6E7tn4n_VjOkTIytRaCnpqv)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/01-Semana)
 
 |  Dia   |  Tópico                              | Invertida                 |
@@ -38,7 +38,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 02: Perceptrons de Múltiplias Camadas e Otimização
 
 1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1JkdTpH4bCB6zoRF7-9P7e9sUg3KzUa_9)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/02-Semana)
 
 |  Dia   |  Tópico                              | Invertida                 |
@@ -51,7 +51,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 03: Redes com Convoluções
 
 1. [Slides](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1YtcvnoJ2VkQRQK30A2mnQA7FS8sWK7AU)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/03-Semana)
 
 |  Dia   |  Tópico                                   | Invertida                 |
@@ -64,7 +64,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 04: Visão
 
 1. [Slides](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1YEx4F7MjguNnl0gat-X4_3wLDISiXbZJ)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/04-Semana)
 
 |  Dia   |  Tópico                                                                                     | Invertida                 |
@@ -77,7 +77,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 05: Aprendizado não Supervisionado
 
 1. [Slides](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1iDJn_2WNe9fbOhg4C3LAoj6SthYRBc8E)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/05-Semana)
 
 |  Dia   |  Tópico                   | Invertida                 |
@@ -90,7 +90,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 06: Redes Recorrentes
 
 1. [Slides](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
-1. [Exercícios](TODO)
+1. [Exercícios](https://drive.google.com/drive/folders/1oV_cVC49oyXL3iUONAm9QFPOlTZir7LC)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/06-Semana)
 
 |  Dia   |  Tópico                   | Invertida                 |
