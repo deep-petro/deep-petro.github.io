@@ -1,8 +1,8 @@
-## Aprendizado Profundo
+# Aprendizado Profundo
 
 Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artificial  na qual  a  modelagem  de  um  problema  e  suas  respectivas regras  e  hipóteses são aprendidas  de  forma  automática  a  partir  dos  dados  disponíveis.  Esse  tipo  de abordagem  tem  ganho  força  em  diversas  áreas  como  biologia,  neurociências, controle  de  tráfego,  indústria  automobilística  e,  mais  recentemente,  geociências. O objetivo do curso aqui descrito é na exploração de sub-área de aprendizado denominada de Aprendizado Profundo (Deep Learning). 
 
-### Logística de Aulas
+## Logística de Aulas
 
 **Sala 2016 - ICEX**
 
@@ -13,11 +13,11 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 13-15h | Invertida/Dúvidas |
 | 15-17h | Prática           |
 
-### Calendário
+## Calendário
 
 Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Notebooks [aqui](https://github.com/deep-petro/praticas). Separados por semana abaixo.
 
-**Introdução 'as Redes Neurais**
+### Semana 01: Introdução 'as Redes Neurais
 
 1. [Slides](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
 1. [Exercícios](TODO)
@@ -30,7 +30,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 26/06  | Gradiente Descendente e Newton       | Dúvidas de Álgebra Linear |
 | 27/06  | Backpropagation                      | Dúvidas de Programação    |
 
-**Perceptrons de Múltiplias Camadas e Otimização**
+### Semana 02: Perceptrons de Múltiplias Camadas e Otimização
 
 1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
 1. [Exercícios](TODO)
@@ -43,7 +43,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 03/07  | Funções de Perda                     |
 | 04/07  | Grafos Computacionais e Prática      |
 
-**Redes com Convoluções**
+### Semana 03: Redes com Convoluções
 
 1. [Slides](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
 1. [Exercícios](TODO)
@@ -56,7 +56,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 10/07  | Classificação com Arquiteturas Profundas  |
 | 11/07  | CNNs na Prática (Vanishing etc)           |
 
-**Visão**
+### Semana 04: Visão
 
 1. [Slides](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
 1. [Exercícios](TODO)
@@ -69,7 +69,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 17/07  | {Image, Instance} segmentation                                                              |
 | 18/07  | Face recognition, Siamese networks, neural style transfer                                   |
 
-**Aprendizado não Supervisionado**
+### Semana 05: Aprendizado não Supervisionado
 
 1. [Slides](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
 1. [Exercícios](TODO)
@@ -82,7 +82,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 24/07  | GANs                      |
 | 25/07  | Modern GANs               |
 
-**Redes Recorrentes**
+### Semana 06: Redes Recorrentes
 
 1. [Slides](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
 1. [Exercícios](TODO)
@@ -95,32 +95,32 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 31/07  | GRUs e LSTMs              |
 | 01/08  | SEQ2SEQ e Attention       |
 
-**Processamento de Linguagem e Sequências**
+### Semana 07: Processamento de Linguagem e Sequências
 
 1. [Slides](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
 1. **Exercícios focado nos Projetos**** 
 1. **Prática focada nos Projetos**
 
-|  Dia   |  Tópico                                                                       | Invertida                 |----------------------------------------------------------------------------------------|---------------------------|
+|  Dia   |  Tópico                                                                       | Invertida                 |--------|-------------------------------------------------------------------------------|---------------------------|
 | 05/08  | Learning word embeddings, word2vec, negative sampling, GloVe                  | Dúvidas Semana Anterior   |
 | 06/08  | Sentiment, Debiasing, Seq. to Seq. Models, Most Likely Sentence, Beam Search  |
 | 07/08  | {Refinements, Error Analysis} of Beam Search, BLEU score                      |
 | 08/08  | Attention model, Speech Recognition                                           |
 
-**Deep Learning Research e Outros Tópicos**
+### Semana 08: Deep Learning Research e Outros Tópicos
 
 1. [Slides](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
 1. **Exercícios focado nos Projetos**** 
 1. **Prática focada nos Projetos**
 
-|  Dia   |  Tópico                                        | Invertida                 |---------------------------------------------------------|---------------------------|
+|  Dia   |  Tópico                                        | Invertida                 |--------|------------------------------------------------|---------------------------|
 | 12/08  | Concept Drift                                  | Apresentação Artigos      |
 | 13/08  | Prunning e Understanding Deep Learning         | Apresentação Artigos      |
 | 14/08  | Interpretability                               | Apresentação Artigos      |
 | 15/08  | Modern Architectures (BERT, VID2VID, GraphNet) | Apresentação Artigos      |
 
-#### Usando o Collab
+## Usando o Collab
 
-#### Projeto
+## Projeto
 
 Em Breve.
