@@ -15,97 +15,111 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ### Calendário
 
+Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Notebooks [aqui](https://github.com/deep-petro/praticas). Separados por semana abaixo.
+
 **Introdução 'as Redes Neurais**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida                 | Prática |
-|--------|--------------------------------------|------------|---------------------------|---------|
-| 24/06  | Motivação e Perceptron               |            | Apresentação              |
-| 25/06  | Regressão Logística                  |            | Dúvidas de Cálculo        |
-| 26/06  | Gradiente Descendente e Newton       |            | Dúvidas de Álgebra Linear |
-| 27/06  | Backpropagation                      |            | Dúvidas de Programação    |
+1. [Slides](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/01-Semana)
+
+|  Dia   |  Tópico                              | Invertida                 |
+|--------|--------------------------------------|---------------------------|
+| 24/06  | Motivação e Perceptron               | Apresentação              |      
+| 25/06  | Regressão Logística                  | Dúvidas de Cálculo        |
+| 26/06  | Gradiente Descendente e Newton       | Dúvidas de Álgebra Linear |
+| 27/06  | Backpropagation                      | Dúvidas de Programação    |
 
 **Perceptrons de Múltiplias Camadas e Otimização**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
+1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/02-Semana)
+
+|  Dia   |  Tópico                              | Invertida                 |
+|--------|--------------------------------------|---------------------------|
+| 01/07  | Melhorias em Backpropagation         |  Dúvidas Semana Anterior  |
 | 02/07  | Regularização                        |
 | 03/07  | Funções de Perda                     |
-| 04/07  | Ainda será Definido                  |
-
+| 04/07  | Grafos Computacionais e Prática      |
 
 **Redes com Convoluções**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
-| 02/07  | Regularização                        |
-| 03/07  | Funções de Perda                     |
-| 04/07  | Ainda será Definido                  |
+1. [Slides](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/03-Semana)
+
+|  Dia   |  Tópico                                   | Invertida                 |
+|--------|-------------------------------------------|---------------------------|
+| 08/07  | Convoluções, Padding e Pooling            | Dúvidas Semana Anterior   |
+| 09/07  | Dilated, Separate e Decompositions        |
+| 10/07  | Classificação com Arquiteturas Profundas  |
+| 11/07  | CNNs na Prática (Vanishing etc)           |
 
 **Visão**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Object {localization, detection}, R-CNNs, Convolutional implementation of sliding windows         |            | Apresentação              |
-| 02/07  | Bounding box predictions, Intersection over union, Non-max supression, Anchor boxes, YOLO                        |
-| 03/07  | {Image, Instance} segmentation                           |
-| 04/07  | Face recognition, Siamese networks, neural style transfer                  |
+1. [Slides](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/04-Semana)
+
+|  Dia   |  Tópico                                                                                     | Invertida                 |
+|--------|---------------------------------------------------------------------------------------------|---------------------------|
+| 15/07  | Object {localization, detection}, R-CNNs, Convolutional implementation of sliding windows   | Dúvidas Semana Anterior   |
+| 16/07  | Bounding box predictions, Intersection over union, Non-max supression, Anchor boxes, YOLO   |
+| 17/07  | {Image, Instance} segmentation                                                              |
+| 18/07  | Face recognition, Siamese networks, neural style transfer                                   |
 
 **Aprendizado não Supervisionado**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
-| 02/07  | Regularização                        |
-| 03/07  | Funções de Perda                     |
-| 04/07  | Ainda será Definido                  |
+1. [Slides](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/05-Semana)
+
+|  Dia   |  Tópico                   | Invertida                 |
+|--------|---------------------------|---------------------------|
+| 22/07  | Classical Auto Enconder   | Dúvidas Semana Anterior   |
+| 23/07  | Variational Auto Encoder  |
+| 24/07  | GANs                      |
+| 25/07  | Modern GANs               |
 
 **Redes Recorrentes**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
-| 02/07  | Regularização                        |
-| 03/07  | Funções de Perda                     |
-| 04/07  | Ainda será Definido                  |
+1. [Slides](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
+1. [Exercícios](TODO)
+1. [Prática](https://github.com/deep-petro/praticas/tree/master/06-Semana)
+
+|  Dia   |  Tópico                   | Invertida                 |
+|--------|---------------------------|---------------------------|
+| 29/07  | Unfolding e RNNs          | Dúvidas Semana Anterior   |
+| 30/07  | Deep RNNs                 |
+| 31/07  | GRUs e LSTMs              |
+| 01/08  | SEQ2SEQ e Attention       |
 
 **Processamento de Linguagem e Sequências**
 
-|  Dia   |  Tópico                              | Exercícios | Invertida | Prática |
-|--------|--------------------------------------|------------|-----------|---------|
-| 01/06  | Melhorias em Backpropagation         |            | Apresentação              |
-| 02/07  | Regularização                        |
-| 03/07  | Funções de Perda                     |
-| 04/07  | Ainda será Definido                  |
+1. [Slides](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
+1. **Exercícios focado nos Projetos**** 
+1. **Prática focada nos Projetos**
 
-#### Slides Teóricos
+|  Dia   |  Tópico                                                                       | Invertida                 |----------------------------------------------------------------------------------------|---------------------------|
+| 05/08  | Learning word embeddings, word2vec, negative sampling, GloVe                  | Dúvidas Semana Anterior   |
+| 06/08  | Sentiment, Debiasing, Seq. to Seq. Models, Most Likely Sentence, Beam Search  |
+| 07/08  | {Refinements, Error Analysis} of Beam Search, BLEU score                      |
+| 08/08  | Attention model, Speech Recognition                                           |
 
-Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Separados por semana abaixo.
+**Deep Learning Research e Outros Tópicos**
 
-1. [Intro ML - Professor Renato Assunção](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
-1. [MLPs from Scratch - Professor Renato Assunção](https://drive.google.com/open?id=1csk3g_a_0k-SkDc2-EGiJBRfPpgXIQaS)
-1. [CNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=1VZM24T5sxsfOdtBoCdFv_K5mL85ZLtKb)
-1. [Vision - Professor Fabrício Murai](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
-1. [Unsupervised Learning - Professor Renato Assunção](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
-1. [RNNs - Professor Pedro Olmo Stancioli Vaz de Melo](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
-1. [Working with Text - Professor Fabrício Murai](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
-1. [Deep Learning Research - Professor Flavio Figueiredo](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
+1. [Slides](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
+1. **Exercícios focado nos Projetos**** 
+1. **Prática focada nos Projetos**
 
-#### Notebooks
+|  Dia   |  Tópico                                        | Invertida                 |---------------------------------------------------------|---------------------------|
+| 12/08  | Concept Drift                                  | Apresentação Artigos      |
+| 13/08  | Prunning e Understanding Deep Learning         | Apresentação Artigos      |
+| 14/08  | Interpretability                               | Apresentação Artigos      |
+| 15/08  | Modern Architectures (BERT, VID2VID, GraphNet) | Apresentação Artigos      |
 
-Os gabaritos serão lançados depois de cada aula!
-
-1. [1a Semana](https://github.com/deep-petro/praticas/tree/master/01-Semana)
-1. [2a Semana](https://github.com/deep-petro/praticas/tree/master/02-Semana)
-1. [3a Semana](https://github.com/deep-petro/praticas/tree/master/03-Semana)
-1. [4a Semana](https://github.com/deep-petro/praticas/tree/master/04-Semana)
-1. [5a Semana](https://github.com/deep-petro/praticas/tree/master/05-Semana)
-1. [6a Semana](https://github.com/deep-petro/praticas/tree/master/06-Semana)
-
-Na sétima e oitava semana vamos focar em um mini-projeto. A descrição segue mais abaixo.
-
-##### Usando o Collab
+#### Usando o Collab
 
 #### Projeto
 
