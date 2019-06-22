@@ -98,7 +98,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 07: Processamento de Linguagem e Sequências
 
 1. [Slides](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
-1. **Exercícios focado nos Projetos**** 
+1. **Exercícios focado nos Projetos**
 1. **Prática focada nos Projetos**
 
 |  Dia   |  Tópico                                                                       | Invertida                 |
@@ -111,7 +111,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 08: Deep Learning Research e Outros Tópicos
 
 1. [Slides](https://drive.google.com/open?id=1PUdOQLQ69YgO1lFyAqo-eRIa-LjEU6jr)
-1. **Exercícios focado nos Projetos**** 
+1. **Exercícios focado nos Projetos**
 1. **Prática focada nos Projetos**
 
 |  Dia   |  Tópico                                        | Invertida                 |
@@ -122,6 +122,19 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 15/08  | Modern Architectures (BERT, VID2VID, GraphNet) | Apresentação Artigos      |
 
 ## Usando o Collab
+
+Durante as tarefas práticas vamos fazer uso do collab. O mesmo permite conectar com o Github
+e executar notebooks do mesmo. Ao acessar o [Collab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true),
+clique em Github. Após isto, coloque os dados do repositório como na figura abaixo.
+
+![Collab Uso](f.png)
+
+Agora basta clicar em um notebook e executar as células! Muito do nosso material vai usar arcabouços como `mxnet`
+e `pytorch`. Para instalar no collab execute na primeira célula:
+
+```
+!pip install mxnet
+```
 
 ## Projeto
 
