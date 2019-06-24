@@ -15,8 +15,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 |--------|-------------------|
 | 8-10h  | Teoria            |
 | 10-12h | Exercícios        |
-| 13-15h | Invertida/Dúvidas |
-| 15-17h | Prática           |
+| 13-15h | Prática           |
+| 15-17h | Invertida/Dúvidas |
 
 <a name="calendario"/>
 
