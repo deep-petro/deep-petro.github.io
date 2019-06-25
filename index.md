@@ -24,7 +24,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV). Notebooks [aqui](https://github.com/deep-petro/praticas). Separados por semana abaixo.
 
-### Semana 01: Introdução 'as Redes Neurais
+### Semana 01: Introdução às Redes Neurais
 
 1. [Slides](https://drive.google.com/open?id=1gTc_K88wXykryTZ-ljCnOd6pd07FV272)
 1. [Exercícios](https://drive.google.com/drive/folders/1xt1TsHtVP6E7tn4n_VjOkTIytRaCnpqv)
