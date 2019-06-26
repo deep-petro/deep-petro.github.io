@@ -33,9 +33,9 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 |  Dia   |  Tópico                              | Invertida                 |
 |--------|--------------------------------------|---------------------------|
 | 24/06  | Motivação e Perceptron               | Apresentação              |
-| 25/06  | Regressão Logística                  | Dúvidas de Cálculo        |
-| 26/06  | Gradiente Descendente e Newton       | Dúvidas de Álgebra Linear |
-| 27/06  | Backpropagation                      | Dúvidas de Programação    |
+| 25/06  | Regressão Logística                  | Apresentação              |
+| 26/06  | Gradiente Descendente e Newton       | Tempo Prática             |
+| 27/06  | Redes Multicamadas                   | Dúvidas de Programação    |
 
 ### Semana 02: Perceptrons de Múltiplias Camadas e Otimização
 
@@ -45,8 +45,8 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                              | Invertida                 |
 |--------|--------------------------------------|---------------------------|
-| 01/07  | Melhorias em Backpropagation         | Dúvidas Semana Anterior   |
-| 02/07  | Regularização                        |                           |
+| 01/07  | Backpropagation                      | Dúvidas Semana Anterior   |
+| 02/07  | Melhorias em Backpropagation         |                           |
 | 03/07  | Funções de Perda                     | Visita e Discussões       |
 | 04/07  | Grafos Computacionais e Prática      | Visita e Discussões       |
 
