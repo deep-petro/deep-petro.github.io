@@ -79,7 +79,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 05: Aprendizado não Supervisionado
 
 1. [Slides](https://drive.google.com/open?id=1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
-1. [Exercícios](https://drive.google.com/open?id=1iDJn_2WNe9fbOhg4C3LAoj6SthYRBc8E)
+1. [Exercícios](https://drive.google.com/drive/folders/1iDJn_2WNe9fbOhg4C3LAoj6SthYRBc8E?usp=sharing)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/05-Semana)
 
 |  Dia   |  Tópico                   | Invertida                 |
