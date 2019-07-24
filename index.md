@@ -92,7 +92,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 ### Semana 06: Redes Recorrentes
 
 1. [Slides](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
-1. [Exercícios](https://drive.google.com/open?id=11TsOfVLVkxD_Kb0EcqtOBequl05L-0T3)
+1. [Exercícios](https://drive.google.com/drive/folders/1oV_cVC49oyXL3iUONAm9QFPOlTZir7LC?usp=sharing)
 1. [Prática](https://github.com/deep-petro/praticas/tree/master/06-Semana)
 
 |  Dia   |  Tópico                   | Invertida                 |
