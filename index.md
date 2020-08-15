@@ -65,7 +65,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 ### Módulo 04: Aprendizado Não-Supervisionado
 
-1. [Slides](https://drive.google.com/open?id=1d-4Sct7RdcQ8j995woj9ie3bNyOxQehj)
+1. [Slides](https://drive.google.com/drive/folders/1SMOo-ps-otlNT1kIQOP6OGDCYq6HAZE4)
 1. [Exercícios](https://drive.google.com/open?id=1YEx4F7MjguNnl0gat-X4_3wLDISiXbZJ)
 1. [Prática](https://github.com/deep-petro/curso-verao/tree/master/04-Modulo)
 
