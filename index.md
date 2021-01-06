@@ -25,7 +25,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 | Dia | Data  |  Tópico                                                                      |
 |-----|-------|------------------------------------------------------------------------------|
-|     |       |  **Módulo 01: Linear, Logística, Perceptron e Redes Neurais from Scratch**   |
+|     |       |  **Módulo 01: Perceptron e Redes Neurais from Scratch**   |
 | Seg | 18/01 | Motivação e Perceptron; Regressão Logística                                  |
 | Ter | 19/01 | Verossimilhança e Perda; Grafos Computacionais                               |
 | Qua | 20/01 | Back-propagation em detalhes                                                 |
