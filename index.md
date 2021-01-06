@@ -32,10 +32,13 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                                        |
 |--------|------------------------------------------------|
-| 20/01  | Motivação e Perceptron; Regressão Logística    |
-| 21/01  | Verossimilhança e Perda; Grafos Computacionais |
-| 22/01  | Back-propagation em detalhes                   |
-| 23/01  | Funções de Ativação e Algoritmos de Otimização |
+| 18/01  | Motivação e Perceptron; Regressão Logística    |
+| 19/01  | Verossimilhança e Perda; Grafos Computacionais |
+| 20/01  | Back-propagation em detalhes                   |
+| 21/01  | Funções de Ativação e Algoritmos de Otimização |
+| 22/01  | LIVRE                                          |
+| 25/01  |                                                |
+| 26/01  |                                                |
 
 ### Módulo 02: Redes Convolucionais
 
@@ -45,10 +48,15 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                                               |
 |--------|-------------------------------------------------------|
-| 24/01  | Redes Convolucionais: Convoluções, Padding e Pooling  |
-| 27/01  | Dilated, Separate e Decompositions                    |
-| 28/01  | Classificação com Arquiteturas Profundas              |
-| 29/01  | CNNs na Prática                                       |
+| 27/01  | Redes Convolucionais: Convoluções, Padding e Pooling  |
+| 28/01  | Dilated, Separate e Decompositions                    |
+| 29/01  | LIVRE                                                 |
+| 01/02  | Classificação com Arquiteturas Profundas              |
+| 02/02  | CNNs na Prática                                       |
+| 03/02  |                                                       |
+| 04/02  |                                                       |
+
+(REVISAR DAQUI PRA FRENTE)
 
 ### Módulo 03: Aplicações de CNNs
 
