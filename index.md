@@ -55,6 +55,7 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 | 02/02  | CNNs na Prática                                       |
 | 03/02  |                                                       |
 | 04/02  |                                                       |
+| 05/02  | LIVRE                                                 |
 
 (REVISAR DAQUI PRA FRENTE)
 
@@ -66,10 +67,14 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                                                               |
 |--------|-----------------------------------------------------------------------|
-| 30/01  | Técnicas Clássicas de Processamento de Imagens e Visão Computacional  |
-| 31/01  | Segmentação Semântica                                                 |
-| 03/02  | Object detection, R-CNNs, Implementation of sliding windows           |
-| 04/02  | Bounding box predictions, IoU, Non-max supression, Anchor boxes, YOLO |
+| 08/02  | Técnicas Clássicas de Processamento de Imagens e Visão Computacional  |
+| 09/02  | Segmentação Semântica                                                 |
+| 10/02  | Object detection, R-CNNs, Implementation of sliding windows           |
+| 11/02  | Bounding box predictions, IoU, Non-max supression, Anchor boxes, YOLO |
+| 12/02  | LIVRE                                                                 |
+| 18/02  |                                                                       |
+| 19/02  | (sexta-feira)                                                         |
+
 
 ### Módulo 04: Aprendizado Não-Supervisionado
 
@@ -79,10 +84,13 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico                                |
 |--------|----------------------------------------|
-| 05/02  | Métodos clássicos: PCA e variantes     |
-| 06/02  | Variational Auto Encoder               |
-| 07/02  | Generative Adversarial Networks - GANs |
-| 10/02  | GANs mais recentes                     |
+| 22/02  | Métodos clássicos: PCA e variantes     |
+| 23/02  | Variational Auto Encoder               |
+| 24/02  | Generative Adversarial Networks - GANs |
+| 25/02  | GANs mais recentes                     |
+| 26/02  | LIVRE                                  |
+| 01/03  |                                        |
+| 02/03  |                                        |
 
 ### Módulo 05: Redes Recorrentes 
 
@@ -92,10 +100,14 @@ Todos os slides estão [aqui](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa
 
 |  Dia   |  Tópico             |
 |--------|---------------------|
-| 11/02  | Unfolding e RNNs    |
-| 12/02  | Deep RNNs           |
-| 13/02  | GRU e LSTM          |
-| 14/02  | SEQ2SEQ e Attention |
+| 03/03  | Unfolding e RNNs    |
+| 04/03  | Deep RNNs           |
+| 05/03  | LIVRE               |
+| 08/03  | GRU e LSTM          |
+| 09/03  | SEQ2SEQ e Attention |
+| 10/03  |                     |
+| 11/03  |                     |
+| 12/03  | LIVRE               |
 
 
 <a name="collab"/>
