@@ -12,7 +12,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 |  Hora  |  Atividade        |
 |--------|-------------------|
 | 9-12h  | Teoria            |
-| 14-17h | Exercícios        |
+| 14-17h | Código            |
 
 <a name="calendario"/>
 
@@ -25,14 +25,14 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 | Dia | Data  |  Tópico                                                                      |
 |-----|-------|------------------------------------------------------------------------------|
-|     |       |  **Módulo 01: Perceptron e Redes Neurais from Scratch**   |
+|     |       |  **Módulo 01: Perceptron e Redes Neurais from Scratch**                      |
 | Seg | 18/01 | Motivação e Perceptron; Regressão Logística                                  |
 | Ter | 19/01 | Verossimilhança e Perda; Grafos Computacionais                               |
-| Qua | 20/01 | Back-propagation em detalhes                                                 |
-| Qui | 21/01 | Funções de Ativação e Algoritmos de Otimização                               |
+| Qua | 20/01 | *Exercícios Teóricos*                                                        |
+| Qui | 21/01 | Back-propagation em detalhes                                                 |
 | Sex | 22/01 | *Estudo em Grupo (Revisão)*                                                  |
-| Seg | 25/01 |                                                                              |
-| Ter | 26/01 |                                                                              |
+| Seg | 25/01 | Funções de Ativação e Algoritmos de Otimização                               |
+| Ter | 26/01 | *Exercícios Teóricos*                                                        |
 |     |       |  **Módulo 02: Redes Convolucionais**                                         |
 | Qua | 27/01 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
 | Qui | 28/01 | Dilated, Separate e Decompositions                                           |
