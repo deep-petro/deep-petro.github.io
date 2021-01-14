@@ -26,22 +26,22 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | Dia | Data  |  Tópico                                                                      |
 |-----|-------|------------------------------------------------------------------------------|
 |     |       |  **Módulo 01: Perceptron e Redes Neurais from Scratch**                      |
-| Seg | 18/01 | Motivação e Perceptron; Regressão Logística                                  |
-| Ter | 19/01 | Verossimilhança e Perda; Grafos Computacionais                               |
-| Qua | 20/01 | *Exercícios Teóricos*                                                        |
-| Qui | 21/01 | Back-propagation em detalhes                                                 |
-| Sex | 22/01 | *Estudo em Grupo (Revisão)*                                                  |
-| Seg | 25/01 | Funções de Ativação e Algoritmos de Otimização                               |
-| Ter | 26/01 | *Exercícios Teóricos*                                                        |
+| Seg | 25/01 | Motivação e Perceptron; Regressão Logística                                  |
+| Ter | 26/01 | Verossimilhança e Perda; Grafos Computacionais                               |
+| Qua | 27/01 | Exercícios Teóricos                                                          |
+| Qui | 28/01 | Back-propagation em detalhes                                                 |
+| Sex | 29/01 | *Sexta Livre (Recomendamos Estudos no Teams)*                                |
+| Seg | 01/01 | Funções de Ativação e Algoritmos de Otimização                               |
+| Ter | 02/01 | Exercícios Teóricos                                                          |
 |     |       |  **Módulo 02: Redes Convolucionais**                                         |
-| Qua | 27/01 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
-| Qui | 28/01 | Dilated, Separate e Decompositions                                           |
-| Sex | 29/01 | *Estudo em Grupo (Revisão)*                                                  |
-| Seg | 01/02 | Classificação com Arquiteturas Profundas                                     |
-| Ter | 02/02 | CNNs na Prática                                                              |
-| Qua | 03/02 |                                                                              |
-| Qui | 04/02 |                                                                              |
-| Sex | 05/02 | *Estudo em Grupo (Revisão)*                                                  |
+| Qua | 03/01 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
+| Qui | 04/01 | Dilated, Separate e Decompositions                                           |
+| Sex | 05/01 | *Sexta Livre (Recomendamos Estudos no Teams)*                                |
+| Seg | 08/02 | Exercícios Teóricos                                                          |
+| Ter | 09/02 | Classificação com Arquiteturas Profundas                                     |
+| Qua | 10/02 | CNNs na Prática                                                              |
+| Qui | 11/02 | Exercícios Teóricos                                                          |
+| Sex | 12/02 | *Estudo em Grupo (Revisão)*                                                  |
 |     |       |  **Módulo 03: Aplicações de CNNs**                                           |
 | Seg | 08/02 | Técnicas Clássicas de Processamento de Imagens e Visão Computacional         |
 | Ter | 09/02 | Segmentação Semântica                                                        |
