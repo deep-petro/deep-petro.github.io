@@ -7,7 +7,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 <a name="logistica"/>
 
-## Logística de Aulas 
+## Logística de Aulas
 
 |  Hora  |  Atividade        |
 |--------|-------------------|
@@ -21,59 +21,66 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 1. [Slides](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
 1. [Prática](https://github.com/deep-petro/curso-verao)
 
-## Calendário 
+## Calendário
 
-| Dia | Data  |  Tópico                                                                      |
+| Dia | Data  |  Módulo 01: Perceptron e Redes Neurais from Scratch                          |
 |-----|-------|------------------------------------------------------------------------------|
-|     |       |  **Módulo 01: Perceptron e Redes Neurais from Scratch**                      |
 | Seg | 25/01 | Motivação e Perceptron; Regressão Logística                                  |
 | Ter | 26/01 | Verossimilhança e Perda; Grafos Computacionais                               |
 | Qua | 27/01 | Exercícios Teóricos                                                          |
 | Qui | 28/01 | Back-propagation em detalhes                                                 |
-| Sex | 29/01 | *Sexta Livre (Recomendamos Estudos no Teams)*                                |
+| Sex | 29/01 | -                                                                            |
 | Seg | 01/01 | Funções de Ativação e Algoritmos de Otimização                               |
 | Ter | 02/01 | Exercícios Teóricos                                                          |
-|     |       |  **Módulo 02: Redes Convolucionais**                                         |
+
+| Dia | Data  |  **Módulo 02: Redes Convolucionais**                                         |
+|-----|-------|------------------------------------------------------------------------------|
 | Qua | 03/01 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
 | Qui | 04/01 | Dilated, Separate e Decompositions                                           |
-| Sex | 05/01 | *Sexta Livre (Recomendamos Estudos no Teams)*                                |
+| Sex | 05/01 | -                                                                            |
 | Seg | 08/02 | Exercícios Teóricos                                                          |
 | Ter | 09/02 | Classificação com Arquiteturas Profundas                                     |
 | Qua | 10/02 | CNNs na Prática                                                              |
 | Qui | 11/02 | Exercícios Teóricos                                                          |
-| Sex | 12/02 | *Estudo em Grupo (Revisão)*                                                  |
-|     |       |  **Módulo 03: Aplicações de CNNs**                                           |
-| Seg | 08/02 | Técnicas Clássicas de Processamento de Imagens e Visão Computacional         |
-| Ter | 09/02 | Segmentação Semântica                                                        |
-| Qua | 10/02 | Object detection, R-CNNs, Implementation of sliding windows                  |
-| Qui | 11/02 | Bounding box predictions, IoU, Non-max supression, Anchor boxes, YOLO        |
-| Sex | 12/02 | *Estudo em Grupo (Revisão)*                                                  |
+| Sex | 12/02 | -                                                                            |
+
+| Dia | Data  |  **Módulo 03: Aplicações de CNNs**                                           |
+|-----|-------|------------------------------------------------------------------------------|
 | Seg | 15/02 | *Carnaval Feriado*                                                           |
 | Ter | 16/02 | *Carnaval Feriado*                                                           |
 | Qua | 17/02 | *Carnaval Feriado*                                                           |
-| Qui | 18/02 |                                                                              |
-| Sex | 19/02 |                                                                              |
-|     |       |  **Módulo 04: Aprendizado Não-Supervisionado**                               |
-| Seg | 22/02 | Métodos clássicos: PCA e variantes                                           |
-| Ter | 23/02 | Variational Auto Encoder                                                     |
-| Qua | 24/02 | Generative Adversarial Networks - GANs                                       |
-| Qui | 25/02 | GANs mais recentes                                                           |
-| Sex | 26/02 | *Estudo em Grupo (Revisão)*                                                  |
-| Seg | 01/03 |                                                                              |
-| Ter | 02/03 |                                                                              |
-|     |       |  **Módulo 05: Redes Recorrentes**                                            |
-| Qua | 03/03 | Unfolding e RNNs                                                             |
-| Qui | 04/03 | Deep RNNs                                                                    |
-| Sex | 05/03 | *Estudo em Grupo (Revisão)*                                                  |
-| Seg | 08/03 | GRU e LSTM                                                                   |
-| Ter | 09/03 | SEQ2SEQ e Attention                                                          |
-| Qua | 10/03 |                                                                              |
-| Qui | 11/03 |                                                                              |
-| Sex | 12/03 | *Estudo em Grupo (Revisão)*                                                  |
+| Qui | 18/02 | Técnicas Clássicas de Processamento de Imagens e Visão Computacional         |
+| Sex | 19/02 | Segmentação Semântica (*Única Sexta com Aula*)                               |
+| Seg | 22/02 | Exercícios Teóricos                                                          |
+| Ter | 23/02 | Object detection, R-CNNs, Implementation of sliding                          |
+| Qua | 24/02 | Bounding box predictions, IoU, Non-max supression, Anchor boxes, YOLO        |
+| Qui | 25/02 | Exercícios Teóricos                                                          |
+| Sex | 26/02 | -                                                                            |
+
+| Dia | Data  |  **Módulo 04: Aprendizado Não-Supervisionado**                               |
+|-----|-------|------------------------------------------------------------------------------|
+| Seg | 01/03 | Métodos clássicos: PCA e variantes                                           |
+| Ter | 02/03 | Variational Auto Encoder                                                     |
+| Qua | 03/03 | Exercícios Teóricos                                                          |
+| Qui | 04/03 | Generative Adversarial Networks - GANs                                       |
+| Sex | 05/03 | -                                                                            |
+| Seg | 08/03 | GANs mais recentes                                                           |
+| Ter | 09/03 | Exercícios Teóricos                                                          |
+
+| Dia | Data  |  **Módulo 05: Redes Recorrentes**                                            |
+|-----|-------|------------------------------------------------------------------------------|
+| Qua | 10/03 | Unfolding e RNNs                                                             |
+| Qui | 11/03 | Deep RNNs                                                                    |
+| Sex | 12/03 | -                                                                            |
+| Seg | 15/03 | Exercícios Teóricos                                                          |
+| Ter | 16/03 | GRU e LSTM                                                                   |
+| Qua | 17/03 | SEQ2SEQ e Attention                                                          |
+| Qui | 18/03 | Exercícios Teóricos                                                          |
+| Sex | 12/03 | -                                                                            |
 
 <a name="collab"/>
 
-## Usando o Collab 
+## Usando o Collab
 
 Durante as tarefas práticas vamos fazer uso do collab. O mesmo permite conectar com o Github
 e executar notebooks do mesmo. Ao acessar o [Collab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true),
@@ -85,6 +92,6 @@ Agora basta clicar em um notebook e executar as células! Muito do nosso materia
 
 <a name="projeto"/>
 
-## Projeto 
+## Projeto
 
 Em Breve.
