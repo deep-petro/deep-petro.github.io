@@ -35,9 +35,9 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 | Dia | Data  |  **Módulo 02: Redes Convolucionais**                                         |
 |-----|-------|------------------------------------------------------------------------------|
-| Qua | 03/01 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
-| Qui | 04/01 | Dilated, Separate e Decompositions                                           |
-| Sex | 05/01 | -                                                                            |
+| Qua | 03/02 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
+| Qui | 04/02 | Dilated, Separate e Decompositions                                           |
+| Sex | 05/02 | -                                                                            |
 | Seg | 08/02 | Exercícios Teóricos                                                          |
 | Ter | 09/02 | Classificação com Arquiteturas Profundas                                     |
 | Qua | 10/02 | CNNs na Prática                                                              |
@@ -76,7 +76,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | Ter | 16/03 | GRU e LSTM                                                                   |
 | Qua | 17/03 | SEQ2SEQ e Attention                                                          |
 | Qui | 18/03 | Exercícios Teóricos                                                          |
-| Sex | 12/03 | -                                                                            |
+| Sex | 19/03 | -                                                                            |
 
 <a name="collab"/>
 
