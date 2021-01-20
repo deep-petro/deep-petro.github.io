@@ -1,5 +1,5 @@
 |-------------------------|---------------------------|----------------------------------|----------------------|
-| [Logística](#logistica) | [Calendário](#calendario) |  [Executanto Notebooks](#collab) | [Projetos](#projeto) |
+| [Logística](#logistica) | [Calendário](#calendario) |  [Executando Notebooks](#collab) | [Projetos](#projeto) |
 
 # Aprendizado Profundo
 
