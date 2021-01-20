@@ -30,8 +30,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | Qua | 27/01 | Exercícios Teóricos                                                          |
 | Qui | 28/01 | Back-propagation em detalhes                                                 |
 | Sex | 29/01 | -                                                                            |
-| Seg | 01/01 | Funções de Ativação e Algoritmos de Otimização                               |
-| Ter | 02/01 | Exercícios Teóricos                                                          |
+| Seg | 01/02 | Funções de Ativação e Algoritmos de Otimização                               |
+| Ter | 02/02 | Exercícios Teóricos                                                          |
 
 | Dia | Data  |  **Módulo 02: Redes Convolucionais**                                         |
 |-----|-------|------------------------------------------------------------------------------|
