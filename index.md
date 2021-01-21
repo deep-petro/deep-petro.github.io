@@ -38,8 +38,8 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | Qua | 03/02 | Redes Convolucionais: Convoluções, Padding e Pooling                         |
 | Qui | 04/02 | Dilated, Separate e Decompositions                                           |
 | Sex | 05/02 | -                                                                            |
-| Seg | 08/02 | Exercícios Teóricos                                                          |
-| Ter | 09/02 | Classificação com Arquiteturas Profundas                                     |
+| Seg | 08/02 | Classificação com Arquiteturas Profundas                                                         |
+| Ter | 09/02 | Exercícios Teóricos                                    |
 | Qua | 10/02 | CNNs na Prática                                                              |
 | Qui | 11/02 | Exercícios Teóricos                                                          |
 | Sex | 12/02 | -                                                                            |
