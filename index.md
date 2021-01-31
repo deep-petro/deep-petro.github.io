@@ -18,17 +18,17 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Material
 
-1. [Slides](https://drive.google.com/open?id=1QWiiflLa-HnyUAfa4AZZhMIijQtJg_TV)
-1. [Prática](https://github.com/deep-petro/curso-verao)
+1. [Slides](https://drive.google.com/drive/u/0/folders/1tfneKIj1G71ERRnYd9PEK0pHtLBoQnis)
+1. [Prática](https://github.com/deep-petro/curso-verao-public)
 
 ## Calendário
 
 | Dia | Data  |  Módulo 01: Perceptron e Redes Neurais from Scratch                          |
 |-----|-------|------------------------------------------------------------------------------|
-| Seg | 25/01 | Motivação e Perceptron; Regressão Logística                                  |
-| Ter | 26/01 | Verossimilhança e Perda; Grafos Computacionais                               |
-| Qua | 27/01 | Exercícios Teóricos                                                          |
-| Qui | 28/01 | Back-propagation em detalhes                                                 |
+| Seg | 25/01 | Motivação e Perceptron                                                       |
+| Ter | 26/01 | Regressão Logística                                                          |
+| Qua | 27/01 | Intro Redes Neurais                                                          |
+| Qui | 28/01 | Grafos Computacionais e Back-propagation                                     |
 | Sex | 29/01 | -                                                                            |
 | Seg | 01/02 | Funções de Ativação e Algoritmos de Otimização                               |
 | Ter | 02/02 | Exercícios Teóricos                                                          |
