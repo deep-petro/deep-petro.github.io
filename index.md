@@ -1,5 +1,5 @@
-|-------------------------|---------------------------|----------------------------------|----------------------|
-| [Logística](#logistica) | [Calendário](#calendario) |  [Executando Notebooks](#collab) | [Projetos](#projeto) |
+|-------------------------|---------------------------|------------------------|---------------------------------|
+| [Logística](#logistica) | [Calendário](#calendario) | [Material](#material)  | [Executando Notebooks](#collab) |
 
 # Aprendizado Profundo
 
@@ -14,12 +14,14 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 | 9-12h  | Teoria            |
 | 14-17h | Código            |
 
-<a name="calendario"/>
+<a name="material"/>
 
 ## Material
 
 1. [Slides](https://drive.google.com/drive/u/0/folders/1tfneKIj1G71ERRnYd9PEK0pHtLBoQnis)
 1. [Prática](https://github.com/deep-petro/curso-verao-public)
+
+<a name="calendario"/>
 
 ## Calendário
 
@@ -89,9 +91,3 @@ clique em Github. Após isto, coloque os dados do repositório como na figura ab
 ![](f.png)
 
 Agora basta clicar em um notebook e executar as células! Muito do nosso material vai usar arcabouços como `pytorch`.
-
-<a name="projeto"/>
-
-## Projeto
-
-Em Breve.
