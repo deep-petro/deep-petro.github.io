@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
-title: Deep Petro
+title: Aprendizado Profundo - DCC/UFMG
+description: Material do curso extensão de aprendizado profundo (deep learning) sendo ofertado no DCC/UFMG.
+logo: logo.png
+show_downloads: false
